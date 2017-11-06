@@ -75,7 +75,7 @@ var changeColor =function(){
  	containerBombIt.removeChild(bombIt);
  	containerBombIt.innerHTML ='<img  alt="BOOM!" src="assets/images/bomb.gif ">'
  	addBtnRestart();
- 	alert('LOSER!');
+ 	alert('HOLA \n Espero tengas un bonito dia :) \n eso ... \n Chao');
  };
 //creando boton restart
  var addBtnRestart = function(){
